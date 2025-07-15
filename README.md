@@ -1,4 +1,4 @@
-# BachelorMealSystem
+# Bachelor Meal Management System
 ## Pay a visit to experiece the website: https://bachelor-meal.infy.uk
 
 ## Home Page
